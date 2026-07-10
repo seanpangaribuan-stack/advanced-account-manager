@@ -1,0 +1,36 @@
+====================================================================
+ HOW TO COMPILE ACCOUNTMANAGER PRO [.EXE] USING MICROSOFT IEXPRESS
+====================================================================
+This tutorial guides you on how to bundle "AccountManagerLite.bat" 
+into a professional, 100% clean, and standalone "AccountManager.exe" 
+without any annoying "Unlicensed Compiler" text or watermarks.
+
+STEP-BY-STEP COMPILATION PROTOCOL:
+--------------------------------------------------------------------
+1. Press the Windows Key on your host laptop, type "iexpress", 
+   right-click it, and select "Run as administrator".
+2. Select "Create new Self Extraction Directive file" ➔ Click Next.
+3. Select "Extract files and run an installation command" ➔ Click Next.
+4. Package Title: Type "AccountManager v3.2.0 [PRO]" ➔ Click Next.
+5. Confirmation Prompt: Select "No prompt" ➔ Click Next.
+6. License Agreement: Select "Do not display a license" ➔ Click Next.
+7. Packaged Files: Click [Add] ➔ Browse and select your 
+   "AccountManagerLite.bat" file ➔ Click Next.
+8. Install Program to Launch:
+   - Install Program: Type "cmd /c AccountManagerLite.bat"
+   - Post Install Command: Leave it blank <None>
+   ➔ Click Next.
+9. Show Window: Select "Hidden" (or "Default") ➔ Click Next.
+10. Finished Message: Select "No message" ➔ Click Next.
+11. Package Name and Options:
+    - Click [Browse] ➔ Choose your "AccountManager-Project" folder.
+    - File Name: Type "AccountManager_Pro_Clean.exe" ➔ Click Save.
+    - Check the box: "Hide File Extracting Progress Animation".
+    ➔ Click Next.
+12. Save Self Extraction Directive (SED): Select "Don't save" ➔ Click Next.
+13. Create Package: Click Next to start compiling! 
+
+STATUS: SUCCESS!
+Your compiled executable is now saved in your project folder. 
+It is 100% clean, standalone, and ready for deployment on GitHub!
+====================================================================
