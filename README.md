@@ -1,3 +1,6 @@
+<img width="960" height="507" alt="image" src="https://github.com/user-attachments/assets/c4ee0c9b-d6d2-495f-a3a7-1354d1dab024" />
+can fight MEMZ,can fight wannacry/wannacrypt
+
 # Windows Advanced Core Diagnostics, Repair and Security Suite v3.2.0 [GOD MODE]
 
 Welcome to the **God Mode Release (v3.2.0)** of the Advanced Account and System Manager! This portable utility has been fully weaponized from a simple credential reassigner into a comprehensive **Ultimate Cyber Weapon & Security Suite** packaged in a secure executable (`.exe`) format.
